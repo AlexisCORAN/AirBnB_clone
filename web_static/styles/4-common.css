@@ -6,11 +6,10 @@ body {
     font-family: Circular,"Helvetica Neue",Helvetica,Arial,sans-serif;
     height: 100vh;
     display: flex;
-    flex-direction: column;
+    flex-flow: row wrap;
 }
 
-body .container {
-    width: 100%;
+.container {
     margin-top: 30px;
     margin-bottom: 30px;
     flex: 1;
