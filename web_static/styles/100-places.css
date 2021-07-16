@@ -152,5 +152,13 @@ ul li p {
     margin-top: 0;
 }
 
+.places .amenities ul li p {
+    margin-top: 10px;
+    margin-bottom: 0px;
+}
+
+.places .amenities ul li {
+    align-items: flex-end;
+}
 
 
