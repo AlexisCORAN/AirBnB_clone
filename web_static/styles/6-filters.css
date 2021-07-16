@@ -60,6 +60,7 @@ button:hover {
 
 .locations .popover ul {
     margin-top: 0px;
+    font-size: 15px;
 }
 
 .locations .popover ul li {
@@ -67,12 +68,15 @@ button:hover {
 }
 
 .amenities .popover ul {
+    font-size: 15px;
     margin-top: 30px;
     margin-bottom: 30px;
+    padding-left: 0px;
 }
 
 .amenities .popover ul li {
     margin-bottom: 5px;
+    margin-left: 40px;
 }
 
 .popover {
