@@ -1,0 +1,15 @@
+header {
+    background-color: #ffffff;
+    height: 70px;
+    width: 100%;
+    border-bottom: 1px solid #CCCCCC;
+    display: flex;
+    align-items: center;
+}
+
+.logo {
+    width: 142px;
+    height: 60px;
+    background: url("/AirBnB_clone/images/logo.png") no-repeat center;
+    margin-left: 20px;
+}
